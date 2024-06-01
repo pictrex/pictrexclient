@@ -1,2 +1,2 @@
 # pictrexclient
-A level 7 roblox executor with a simple to use gui, and byfron bypassign capabilites
+A level 7 Roblox executor with a simple to use GUI, and Byfron bypassing capabilities.
