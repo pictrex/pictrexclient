@@ -8,7 +8,7 @@ Your anti-virus will most likely say Pictre X is a virus, but it isn't. The reas
 So just ignore the warning, and allow it. If this doesn't work, just disable your antivirus completely.
 
 ## Install guide:
-Step 1: Download Pictre from [here:](https://github.com/pictrex/pictrexclient/releases/download/pictrexv1.03/pictrex.zip)
+Step 1: Download Pictre from [here:](https://github.com/pictrex/pictrexclient/releases/download/pictrexv1.05/pictrexclient.zip)
 
 Step 2: Extract the .zip.
 
