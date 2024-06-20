@@ -12,7 +12,9 @@ Step 1: Download Pictre from [here:](https://github.com/pictrex/pictrexclient/re
 
 Step 2: Extract the .zip.
 
-Step 3: Run the exe file, and launch roblox.
+Step 3: Run the .bat file, and launch roblox.
+
+Step 3.5: If the .bat file doesn't work, launch the .exe directly.
 
 Step 4: Enjoy and have fun!
 
